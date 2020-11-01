@@ -1,0 +1,3 @@
+include ':module_aop'
+include ':app'
+rootProject.name = "will-aop"
